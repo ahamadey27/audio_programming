@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\Coding\audio_programming\CH1_Programming_In_C\exercises\1.2.13_exercises\1.2.13_exercises\Source.c(14,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'double'
+D:\Coding\audio_programming\CH1_Programming_In_C\exercises\1.2.13_exercises\1.2.13_exercises\Source.c(14,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 6 has type 'double'
+  1.2.13_exercises.vcxproj -> D:\Coding\audio_programming\CH1_Programming_In_C\exercises\1.2.13_exercises\1.2.13_exercises\x64\Debug\1.2.13_exercises.exe

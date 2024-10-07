@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\exercises\\1.2.13_exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59EB9AF0-8AA5-4EF7-969D-7063B4E63462}|1.2.13_exercises\\1.2.13_exercises.vcxproj|D:\\Coding\\audio_programming\\CH1_Programming_In_C\\exercises\\1.2.13_exercises\\1.2.13_exercises\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59EB9AF0-8AA5-4EF7-969D-7063B4E63462}|1.2.13_exercises\\1.2.13_exercises.vcxproj|solutionrelative:1.2.13_exercises\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\exercises\\1.2.13_exercises\\1.2.13_exercises\\Source.c",
+              "RelativeDocumentMoniker": "1.2.13_exercises\\Source.c",
+              "ToolTip": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\exercises\\1.2.13_exercises\\1.2.13_exercises\\Source.c",
+              "RelativeToolTip": "1.2.13_exercises\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T16:06:25.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
