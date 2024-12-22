@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\Coding\audio_programming\CH1_Programming_In_C\MIDI_NOTE_NUMBER_EXERCISE\MIDI_NOTE_NUMBER_EXERCISE\Source.c(17,11): warning C4013: 'gets' undefined; assuming extern returning int
+D:\Coding\audio_programming\CH1_Programming_In_C\MIDI_NOTE_NUMBER_EXERCISE\MIDI_NOTE_NUMBER_EXERCISE\Source.c(17,9): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+  MIDI_NOTE_NUMBER_EXERCISE.vcxproj -> D:\Coding\audio_programming\CH1_Programming_In_C\MIDI_NOTE_NUMBER_EXERCISE\MIDI_NOTE_NUMBER_EXERCISE\x64\Debug\MIDI_NOTE_NUMBER_EXERCISE.exe

@@ -1,2 +1,1 @@
-# audio_programming
-C and C++ for audio
+#include <stdio.h>

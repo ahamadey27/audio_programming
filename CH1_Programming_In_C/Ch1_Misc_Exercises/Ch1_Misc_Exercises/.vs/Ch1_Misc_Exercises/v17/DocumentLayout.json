@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\Ch1_Misc_Exercises\\Ch1_Misc_Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC9B65-E47E-4C48-999E-48EA148F91F7}|Ch1_Misc_Exercises\\Ch1_Misc_Exercises.vcxproj|D:\\Coding\\audio_programming\\CH1_Programming_In_C\\Ch1_Misc_Exercises\\Ch1_Misc_Exercises\\Ch1_Misc_Exercises\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5CC9B65-E47E-4C48-999E-48EA148F91F7}|Ch1_Misc_Exercises\\Ch1_Misc_Exercises.vcxproj|solutionrelative:Ch1_Misc_Exercises\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\Ch1_Misc_Exercises\\Ch1_Misc_Exercises\\Ch1_Misc_Exercises\\Source.c",
+              "RelativeDocumentMoniker": "Ch1_Misc_Exercises\\Source.c",
+              "ToolTip": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\Ch1_Misc_Exercises\\Ch1_Misc_Exercises\\Ch1_Misc_Exercises\\Source.c",
+              "RelativeToolTip": "Ch1_Misc_Exercises\\Source.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-22T20:31:15.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
