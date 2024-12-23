@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\freq_of_midi_note\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B53DC600-D680-494D-8BB6-2F988A014F32}|freq_of_midi_note\\freq_of_midi_note.vcxproj|D:\\Coding\\audio_programming\\CH1_Programming_In_C\\freq_of_midi_note\\freq_of_midi_note\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B53DC600-D680-494D-8BB6-2F988A014F32}|freq_of_midi_note\\freq_of_midi_note.vcxproj|solutionrelative:freq_of_midi_note\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B53DC600-D680-494D-8BB6-2F988A014F32}|freq_of_midi_note\\freq_of_midi_note.vcxproj|D:\\Coding\\audio_programming\\CH1_Programming_In_C\\freq_of_midi_note\\freq_of_midi_note\\cpsmidi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B53DC600-D680-494D-8BB6-2F988A014F32}|freq_of_midi_note\\freq_of_midi_note.vcxproj|solutionrelative:freq_of_midi_note\\cpsmidi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\audio_programming\\CH1_Programming_In_C\\freq_of_midi_note\\freq_of_midi_note\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:freq_of_midi_note\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +27,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "cpsmidi.c",
+              "DocumentMoniker": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\freq_of_midi_note\\freq_of_midi_note\\cpsmidi.c",
+              "RelativeDocumentMoniker": "freq_of_midi_note\\cpsmidi.c",
+              "ToolTip": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\freq_of_midi_note\\freq_of_midi_note\\cpsmidi.c",
+              "RelativeToolTip": "freq_of_midi_note\\cpsmidi.c",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T17:46:01.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Source.c",
               "DocumentMoniker": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\freq_of_midi_note\\freq_of_midi_note\\Source.c",
               "RelativeDocumentMoniker": "freq_of_midi_note\\Source.c",
               "ToolTip": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\freq_of_midi_note\\freq_of_midi_note\\Source.c",
               "RelativeToolTip": "freq_of_midi_note\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-04T15:20:41.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T15:20:41.043Z"
             }
           ]
         }

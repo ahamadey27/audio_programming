@@ -1,0 +1,9 @@
+﻿  cpsmidi.c
+D:\Coding\audio_programming\CH1_Programming_In_C\freq_of_midi_note\freq_of_midi_note\cpsmidi.c(37,9): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+D:\Coding\audio_programming\CH1_Programming_In_C\freq_of_midi_note\freq_of_midi_note\cpsmidi.c(37,55): warning C4474: 'printf' : too many arguments passed for format string
+      D:\Coding\audio_programming\CH1_Programming_In_C\freq_of_midi_note\freq_of_midi_note\cpsmidi.c(37,55):
+      placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+D:\Coding\audio_programming\CH1_Programming_In_C\freq_of_midi_note\freq_of_midi_note\cpsmidi.c(10,8): warning C4101: 'result': unreferenced local variable
+D:\Coding\audio_programming\CH1_Programming_In_C\freq_of_midi_note\freq_of_midi_note\cpsmidi.c(9,7): warning C4101: 'message': unreferenced local variable
+  freq_of_midi_note.vcxproj -> D:\Coding\audio_programming\CH1_Programming_In_C\freq_of_midi_note\x64\Debug\freq_of_midi_note.exe

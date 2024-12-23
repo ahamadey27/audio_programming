@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\Coding\audio_programming\CH1_Programming_In_C\MIDI_NOTE_NUMBER_EXERCISE\MIDI_NOTE_NUMBER_EXERCISE\Source.c(37,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MIDI_NOTE_NUMBER_EXERCISE.vcxproj -> D:\Coding\audio_programming\CH1_Programming_In_C\MIDI_NOTE_NUMBER_EXERCISE\x64\Debug\MIDI_NOTE_NUMBER_EXERCISE.exe

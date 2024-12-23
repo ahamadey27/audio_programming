@@ -7,14 +7,14 @@ int main()
 	double c5, c0, semitone_ratio, frequency;
 	int midinote;
 	char message[256];
-	char* result; 
+	char* result;
 
 	semitone_ratio = pow(2, 1.0 / 12); // stanard math to find semitone ratio
 	c5 = 220.0 * pow(semitone_ratio, 3);
-	c0 = c5 * pow(0.5, 5); 
+	c0 = c5 * pow(0.5, 5);
 
 	printf("Enter MIDI Note (0 - 127): ");
-	result = gets(message); 
+	result = gets(message);
 	if (result == NULL)
 	{
 		printf("There was an error reading your input.\n");
@@ -39,8 +39,9 @@ int main()
 		return 1;
 	}
 
-	frequency = c0 * pow(semitone_ratio, midinote); 
-	printf("Frequency of MIDI note %d = %f\n", midinote, frequency);
+	frequency = c0 * pow(semitone_ratio, midinote);
+	int roundedFreq = round(frequency);
+	printf("Frequency of MIDI note %d = %i\n", midinote, roundedFreq);
 
 
 	return 0;
