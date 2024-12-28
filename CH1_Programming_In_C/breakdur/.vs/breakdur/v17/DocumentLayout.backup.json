@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\breakdur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4DF3E1-9903-4FDD-9857-D9BE15D5AA38}|breakdur\\breakdur.vcxproj|D:\\Coding\\audio_programming\\CH1_Programming_In_C\\breakdur\\breakdur\\breakdur.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4DF3E1-9903-4FDD-9857-D9BE15D5AA38}|breakdur\\breakdur.vcxproj|solutionrelative:breakdur\\breakdur.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "breakdur.c",
+              "DocumentMoniker": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\breakdur\\breakdur\\breakdur.c",
+              "RelativeDocumentMoniker": "breakdur\\breakdur.c",
+              "ToolTip": "D:\\Coding\\audio_programming\\CH1_Programming_In_C\\breakdur\\breakdur\\breakdur.c",
+              "RelativeToolTip": "breakdur\\breakdur.c",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv3AAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-28T19:47:13.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
